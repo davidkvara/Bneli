@@ -1,0 +1,22 @@
+{
+  "name": "bneli",
+  "displayName": "Bneli Theme",
+  "description": "Minimalistic Dark Theme",
+  "publisher": "davidkvara",
+  "version": "1.0.0",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.20.1"
+  },
+  "categories": ["Themes"],
+  "keywords": ["theme", "dark", "minimal", "black", "simple", "bneli"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bneli",
+        "uiTheme": "vs-dark",
+        "path": "./themes/bneli-color-theme.json"
+      }
+    ]
+  }
+}
