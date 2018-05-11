@@ -12,7 +12,8 @@
     "list.hoverBackground": "#4444444f",
     "list.dropBackground": "#383b3d",
     "button.foreground": "#dddddd",
-    "button.background": "#405e77",
+    "button.background": "#505050",
+    "button.hoverBackground": "#585858",
     "scrollbarSlider.background": "#55555577",
     "scrollbarSlider.hoverBackground": "#5555555b",
     "scrollbarSlider.activeBackground": "#55555593",
@@ -31,9 +32,9 @@
     "tab.activeBackground": "#272727",
     "tab.activeForeground": "#cfcfcf",
     "editorGroupHeader.tabsBackground": "#303030",
-    "statusBar.foreground": "#b4b4b4",
-    "statusBar.background": "#343434",
-    "statusBar.noFolderBackground": "#323232",
+    "statusBar.foreground": "#cecece",
+    "statusBar.background": "#373737",
+    "statusBar.noFolderBackground": "#404040",
     "activityBar.background": "#2e2e2e",
     "activityBar.foreground": "#bdbdbd",
     "activityBarBadge.background": "#347fbd",
@@ -54,10 +55,7 @@
       }
     },
     {
-      "scope": [
-        "meta.embedded",
-        "source.groovy.embedded"
-      ],
+      "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -93,9 +91,7 @@
       }
     },
     {
-      "scope": [
-        "constant.numeric"
-      ],
+      "scope": ["constant.numeric"],
       "settings": {
         "foreground": "#b5cea8"
       }
@@ -306,9 +302,7 @@
     },
     {
       "name": "Reset JavaScript string interpolation expression",
-      "scope": [
-        "meta.template.expression"
-      ],
+      "scope": ["meta.template.expression"],
       "settings": {
         "foreground": "#d4d4d4"
       }
@@ -483,9 +477,7 @@
     },
     {
       "name": "Object keys, TS grammar specific",
-      "scope": [
-        "meta.object-literal.key"
-      ],
+      "scope": ["meta.object-literal.key"],
       "settings": {
         "foreground": "#9CDCFE"
       }
@@ -532,10 +524,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.operator.or.regexp",
-        "keyword.control.anchor.regexp"
-      ],
+      "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
         "foreground": "#DCDCAA"
       }
