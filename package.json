@@ -9,7 +9,12 @@
     "vscode": "^1.20.1"
   },
   "categories": ["Themes"],
-  "keywords": ["theme", "dark", "minimal", "black", "simple", "bneli"],
+  "keywords": ["theme", "dark", "minimal", "black", "simple"],
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidkvara/Bneli.git"
+  },
   "contributes": {
     "themes": [
       {
