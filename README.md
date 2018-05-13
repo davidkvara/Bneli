@@ -2,9 +2,9 @@
 
 Just a tweaked default Dark+ theme, nothing special.
 
-If you are new to VS Code and want to make your editor look cooler, you can start with adding rules I provided below
+If you are new to VS Code and want to make your editor look cooler, you can start with adding rules I provided below to your user settings file
 
-to open user settings file: click `ctrl+,` or `cmd+,` on mac
+to open user settings file, use the keyboard shortcut `ctrl+,` or `cmd+,` on mac
 
 ```json
 {
