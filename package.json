@@ -1,9 +1,9 @@
 {
   "name": "bneli",
   "displayName": "Bneli Theme",
-  "description": "Minimalistic Dark Theme",
+  "description": "Simple Dark Theme",
   "publisher": "davidkvara",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "license": "MIT",
   "engines": {
     "vscode": "^1.20.1"

@@ -4,9 +4,9 @@
     "selection.background": "#6184b4",
     "textLink.foreground": "#4080d0",
     "list.focusBackground": "#444444c2",
-    "list.activeSelectionBackground": "#3333339d",
+    "list.activeSelectionBackground": "#303030d3",
     "list.activeSelectionForeground": "#cfcfcf",
-    "list.inactiveSelectionBackground": "#4440407a",
+    "list.inactiveSelectionBackground": "#303030d3",
     "list.inactiveSelectionForeground": "#cfcfcf",
     "list.inactiveFocusBackground": "#393939",
     "list.hoverBackground": "#4444444f",
@@ -30,11 +30,11 @@
     "editorBracketMatch.background": "#3838380e",
     "editorBracketMatch.border": "#666666",
     "tab.activeBackground": "#262626",
-    "tab.inactiveBackground": "#2c2c2c",
+    "tab.inactiveBackground": "#2e2e2e",
     "tab.activeForeground": "#cfcfcf",
-    "editorGroupHeader.tabsBackground": "#2c2c2c",
-    "statusBar.foreground": "#cecece",
-    "statusBar.background": "#393939",
+    "editorGroupHeader.tabsBackground": "#2e2e2e",
+    "statusBar.foreground": "#c0c0c0",
+    "statusBar.background": "#353434",
     "statusBar.noFolderBackground": "#383838",
     "activityBar.background": "#2e2e2e",
     "activityBar.foreground": "#bdbdbd",
@@ -43,7 +43,7 @@
     "sideBar.foreground": "#b9b9b9",
     "sideBar.border": "#34324209",
     "sideBarTitle.foreground": "#d1d1d1c9",
-    "sideBarSectionHeader.background": "#383838d5",
+    "sideBarSectionHeader.background": "#303030",
     "sideBarSectionHeader.foreground": "#b3b3b3",
     "welcomePage.buttonBackground": "#202020",
     "welcomePage.buttonHoverBackground": "#222222"
@@ -56,10 +56,7 @@
       }
     },
     {
-      "scope": [
-        "meta.embedded",
-        "source.groovy.embedded"
-      ],
+      "scope": ["meta.embedded", "source.groovy.embedded"],
       "settings": {
         "foreground": "#D4D4D4"
       }
@@ -95,9 +92,7 @@
       }
     },
     {
-      "scope": [
-        "constant.numeric"
-      ],
+      "scope": ["constant.numeric"],
       "settings": {
         "foreground": "#b5cea8"
       }
@@ -308,9 +303,7 @@
     },
     {
       "name": "Reset JavaScript string interpolation expression",
-      "scope": [
-        "meta.template.expression"
-      ],
+      "scope": ["meta.template.expression"],
       "settings": {
         "foreground": "#d4d4d4"
       }
@@ -485,9 +478,7 @@
     },
     {
       "name": "Object keys, TS grammar specific",
-      "scope": [
-        "meta.object-literal.key"
-      ],
+      "scope": ["meta.object-literal.key"],
       "settings": {
         "foreground": "#9CDCFE"
       }
@@ -534,10 +525,7 @@
       }
     },
     {
-      "scope": [
-        "keyword.operator.or.regexp",
-        "keyword.control.anchor.regexp"
-      ],
+      "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
       "settings": {
         "foreground": "#DCDCAA"
       }

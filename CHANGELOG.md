@@ -1,5 +1,12 @@
 Bneli theme is davidkvara's theme for personal use
 
+## version 1.0.4
+
+changed:
+
+* editorGroupHeader.tabsBackground: #2e2e2e
+* statusBar.foreground: "#c0c0c0
+
 ## Version 1.0.2
 
 * updated readme
