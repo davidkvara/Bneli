@@ -19,7 +19,7 @@ to open user settings file, use the keyboard shortcut `ctrl+,` or `cmd+,` on mac
   "workbench.editor.labelFormat": "short",
   "editor.cursorBlinking": "solid",
   "editor.cursorWidth": 3,
-  "editor.renderLineHighlight": "gutter"
+  "editor.renderLineHighlight": "none"
 }
 ```
 

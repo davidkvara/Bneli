@@ -1,5 +1,9 @@
 Bneli theme is davidkvara's theme for personal use
 
+## version 1.0.5
+
+* color adjustments
+
 ## version 1.0.4
 
 changed:

@@ -26,7 +26,6 @@
     "editorWhitespace.foreground": "#383838",
     "editorIndentGuide.background": "#373737",
     "editorIndentGuide.activeBackground": "#373737",
-    "editorLineNumber.activeForeground": "#9c9b89",
     "editorBracketMatch.background": "#3838380e",
     "editorBracketMatch.border": "#666666",
     "tab.activeBackground": "#262626",
