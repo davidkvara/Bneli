@@ -3,13 +3,21 @@
   "displayName": "Bneli Theme",
   "description": "Simple Dark Theme",
   "publisher": "davidkvara",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "license": "MIT",
   "engines": {
     "vscode": "^1.20.1"
   },
-  "categories": ["Themes"],
-  "keywords": ["theme", "dark", "minimal", "black", "simple"],
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "minimal",
+    "black",
+    "simple"
+  ],
   "icon": "icon.png",
   "repository": {
     "type": "git",

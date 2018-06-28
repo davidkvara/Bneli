@@ -1,6 +1,6 @@
 ## Bneli Theme
 
-Just a tweaked default Dark+ theme, nothing special.
+Tweaked default Dark+ theme.
 
 If you are new to VS Code and want to make your editor look cooler, you can start with adding rules I provided below to your user settings file
 
@@ -18,8 +18,7 @@ to open user settings file, use the keyboard shortcut `ctrl+,` or `cmd+,` on mac
   "workbench.editor.tabSizing": "shrink",
   "workbench.editor.labelFormat": "short",
   "editor.cursorBlinking": "solid",
-  "editor.cursorWidth": 3,
-  "editor.renderLineHighlight": "none"
+  "editor.cursorWidth": 3
 }
 ```
 
