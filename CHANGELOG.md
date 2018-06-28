@@ -1,6 +1,6 @@
 Bneli theme is davidkvara's theme for personal use
 
-## version 1.06
+## version 1.0.6~
 
 - statusBar.debuggingForeground: #efefef
 

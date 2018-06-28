@@ -3,7 +3,7 @@
   "displayName": "Bneli Theme",
   "description": "Simple Dark Theme",
   "publisher": "davidkvara",
-  "version": "1.0.6",
+  "version": "1.0.61",
   "license": "MIT",
   "engines": {
     "vscode": "^1.20.1"
