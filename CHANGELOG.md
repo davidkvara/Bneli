@@ -1,4 +1,9 @@
-Bneli theme is davidkvara's theme for personal use
+All notable changes to Bneli theme will be documented in this file
+
+## version 1.1.0
+
+- html attributes, comments, javascript keywords, classes, etc. are now in italic
+- editorLineNumber.foreground
 
 ## version 1.0.6~
 
