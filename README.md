@@ -11,14 +11,11 @@ to open user settings file, use the keyboard shortcut `ctrl+,` or `cmd+,` on mac
   "editor.fontSize": 15,
   "editor.lineHeight": 24,
   "editor.minimap.enabled": false,
-  "editor.cursorBlinking": "solid",
-  "editor.cursorWidth": 3,
-
   "terminal.integrated.fontSize": 15,
   "window.menuBarVisibility": "toggle",
+  "explorer.openEditors.visible": 0,
   "workbench.editor.tabSizing": "shrink",
   "workbench.editor.labelFormat": "short",
-  "workbench.activityBar.visible": false,
   "workbench.colorTheme": "Bneli"
 }
 ```
