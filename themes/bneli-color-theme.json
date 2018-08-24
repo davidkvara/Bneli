@@ -4,9 +4,9 @@
     "activityBar.background": "#2e2e2e",
     "activityBar.foreground": "#bdbdbd",
     "activityBarBadge.background": "#347fbd",
-    "button.background": "#4f4f4f",
-    "button.foreground": "#e1e1e1",
-    "button.hoverBackground": "#565656",
+    "button.background": "#464646",
+    "button.foreground": "#d4d4d4",
+    "button.hoverBackground": "#494949",
     "editor.background": "#262626",
     "editor.foreground": "#d4d4d4",
     "editor.inactiveSelectionBackground": "#3a3d41",
@@ -19,7 +19,7 @@
     "editorIndentGuide.activeBackground": "#373737",
     "editorIndentGuide.background": "#373737",
     "editorLineNumber.activeForeground": "#bebebe",
-    "editorLineNumber.foreground": "#737373",
+    "editorLineNumber.foreground": "#727272",
     "editorWhitespace.foreground": "#383838",
     "list.activeSelectionBackground": "#303030d3",
     "list.activeSelectionForeground": "#cfcfcf",
@@ -39,10 +39,10 @@
     "sideBarSectionHeader.background": "#303030",
     "sideBarSectionHeader.foreground": "#b3b3b3",
     "sideBarTitle.foreground": "#d1d1d1c9",
-    "statusBar.background": "#353434",
+    "statusBar.background": "#343434",
+    "statusBar.foreground": "#c6c6c6",
     "statusBar.debuggingForeground": "#efefef",
-    "statusBar.foreground": "#c0c0c0",
-    "statusBar.noFolderBackground": "#383838",
+    "statusBar.noFolderBackground": "#343434",
     "tab.activeBackground": "#262626",
     "tab.activeForeground": "#cfcfcf",
     "tab.inactiveBackground": "#2e2e2e",
@@ -88,25 +88,14 @@
     },
     {
       "name": "Keyword control",
-      "scope": [
-        "keyword.control",
-        "keyword.operator.new",
-        "keyword.operator.expression"
-      ],
+      "scope": ["keyword.control.conditional"],
       "settings": {
         "fontStyle": "italic"
       }
     },
     {
       "name": "Built-in constant",
-      "scope": ["constant.language", "variable.language"],
-      "settings": {
-        "fontStyle": "italic"
-      }
-    },
-    {
-      "name": "Storage",
-      "scope": ["storage", "storage.type"],
+      "scope": ["variable.language"],
       "settings": {
         "fontStyle": "italic"
       }

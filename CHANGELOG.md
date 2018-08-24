@@ -1,5 +1,13 @@
 All notable changes to Bneli theme will be documented in this file
 
+# 1.1.3
+
+- last update
+
+## 1.1.2
+
+- perfect balance has been achieved.
+
 ## 1.1.1
 
 - size optimization, bugfixes
