@@ -1,5 +1,9 @@
 All notable changes to Bneli theme will be documented in this file
 
+## 1.1.4
+
+- updated gist in documentation
+
 # 1.1.3
 
 - last update

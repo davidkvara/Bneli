@@ -20,4 +20,4 @@ to open user settings file, use the keyboard shortcut `ctrl+,` or `cmd+,` on mac
 }
 ```
 
-for more advanced rules check out my [gist](https://gist.github.com/davidkvara/ba2b7bed3b91b82a0ab91d3166ada0e9) or visit vscode [documentation page](https://code.visualstudio.com/docs/getstarted/settings#_settings-editor)
+for more advanced rules check out my [gist](https://gist.github.com/davidkvara/3623dcfa4c944d6c391ec6c14b0ffba0#file-settings-json) or visit VS Code [documentation page](https://code.visualstudio.com/docs/getstarted/settings#_settings-editor)
