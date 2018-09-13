@@ -76,13 +76,28 @@
     {
       "scope": "comment",
       "settings": {
-        "foreground": "#608b4e"
+        "foreground": "#608b4e",
+        "fontStyle": "italic"
       }
     },
     {
       "scope": "constant.language",
       "settings": {
         "foreground": "#569cd6"
+      }
+    },
+    {
+      "name": "Keyword control",
+      "scope": ["keyword.control.conditional"],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Built-in constant",
+      "scope": ["variable.language"],
+      "settings": {
+        "fontStyle": "italic"
       }
     },
     {
